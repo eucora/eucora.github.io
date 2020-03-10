@@ -3,10 +3,17 @@ table {
   width: 100%;
 }
 
-th, td 
+td 
 {
   text-align: left;
   padding: 8px;
+}
+
+t
+{
+  text-align: left;
+  padding: 8px;
+  width: 150px;
 }
 
 
