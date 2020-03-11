@@ -1,5 +1,5 @@
 table {
-  pointer-events: none;
+
   border-collapse: collapse;
   width: 100%;
 }
@@ -15,7 +15,7 @@ td
 	text-align: center;
 	font-size: 22px;
 	font-family: sans-serif;
-	
+	pointer-events: none;
 }
 
 .row
@@ -25,10 +25,13 @@ td
 
 th
 {
-	border: 1px solid #000;
+  border: 1px solid #000;
   text-align: center;
   padding: 8px;
   width: 120px;
+  background-color: #ad2c51;
+  color: white;
+  pointer-events: none;
 }
 
 .trow
@@ -36,10 +39,5 @@ th
   text-align: left;
   padding: 8px;
   width: 20px;
-}
-
-th
-{
-  background-color: #ad2c51;
-  color: white;
+  pointer-events: none;
 }
