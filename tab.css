@@ -2,12 +2,10 @@ table {
   border-collapse: collapse;
   width: 100%;
 }
-
 h1, h2
 {
 	text-align:center;
 }
-
 td 
 {
 	border: 1px solid #ddd;
@@ -16,12 +14,10 @@ td
 	font-family: sans-serif;
 	pointer-events: none;
 }
-
 .row
 {
 	background-color: white;
 }
-
 th
 {
   border: 1px solid #000;
@@ -32,11 +28,14 @@ th
   color: white;
   pointer-events: none;
 }
-
 .trow
 {
   text-align: left;
   padding: 8px;
   width: 20px;
+  pointer-events: none;
+}
+tr
+{
   pointer-events: none;
 }
