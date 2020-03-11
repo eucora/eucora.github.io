@@ -1,4 +1,5 @@
 table {
+  pointer-events: none;
   border-collapse: collapse;
   width: 100%;
 }
