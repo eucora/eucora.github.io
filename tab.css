@@ -22,6 +22,14 @@ td
 	pointer-events: none;
 	
 }
+.hroww
+{
+	text-align: left;
+	padding: 8px;
+	width: 20px;
+	pointer-events: none;
+}
+
 th
 {
   border: 1px solid #000;
@@ -45,7 +53,22 @@ th
 .lrow
 {
 	width: fit-content;
-    margin: auto;
+        margin: auto;
+}
+.troww
+{
+  text-align: center;
+  /*padding: 8px;*/
+  /*width: 20px;*/
+  pointer-events: none;
+  color: #505403;
+  font-weight: bold;
+  font-size: 20px;
+}
+.lroww
+{
+	width: fit-content;
+        margin: auto;
 }
 tr
 {
