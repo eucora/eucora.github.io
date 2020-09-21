@@ -48,7 +48,7 @@ th
   pointer-events: none;
   color: #032745;
   font-weight: bold;
-  font-size: 20px;
+  /*font-size: 20px;*/
 }
 .lrow
 {
@@ -63,7 +63,7 @@ th
   pointer-events: none;
   color: #a18105;
   /*font-weight: bold;*/
-  font-size: 20px;
+  /*font-size: 20px;*/
 }
 tr
 {
