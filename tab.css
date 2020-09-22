@@ -69,3 +69,12 @@ tr
 {
   pointer-events: none;
 }
+
+.img{
+background-repeat: no-repeat, repeat;
+background-position: center;
+background-image: url('https://i.ibb.co/vdptWnj/160076509364992024.png');
+background-attachment: fixed;
+	opacity: 0.5;
+	
+}
